@@ -1,5 +1,19 @@
   [
-            
+    {
+                "name": "Malaccan Silat Warrior",
+                "unitType": "Sword",
+                "uniqueTo": "Malacca",
+                "replaces": "Spearman",
+                "movement": 1,
+                "strength": 15,
+                "cost": 50,
+                "requiredTech": "Bronze Working",
+                "upgradesTo": "Pikeman",
+                "obsoleteTech": "Civil Service",
+                "hurryCostModifier": 20,
+                "attackSound": "metalhit",
+                "uniques": ["Can move immediately once bought"],
+            },        
     {
         "name": "Malaccan Armored Cavalry",
         "unitType": "Mounted",
@@ -29,23 +43,23 @@
                 "obsoleteTech": "Rifling",
                 "hurryCostModifier": 15,
                 "attackSound": "metalhit",
-                "uniques": ["Can move immadiately once bought","Replaces both Musketman and Musketeer"],
+                "uniques": ["Can move immediately once bought"],
             },
             {
                 "name": "Johor Silat Warrior",
-                "unitType": "Melee",
+                "unitType": "Sword",
                 "uniqeTo": "Johor Riau",
                 "replaces": "Swordsman",
                 "movement": 2,
                 "strength": 21,
                 "cost": 30,
                 "requiredTech": "Iron Working",
-                "upgradesTo": "Longswordman",
+                "upgradesTo": "Longswordsman",
                 "obsoleteTech": "Steel",
                 "hurryCostModifier": 20,
                 "requiredRecources": "Iron",
                 "attacksound": "metalhit",
-                "uniques": ["Can move after attacking","Replaces Swordsman"],
+                "uniques": ["Can move after attacking"],
             },
             {
                 "name": "Jentayu",
@@ -60,7 +74,7 @@
                 "obsoleteTech": "Radar",
                 "hurryCostModifier": 20,
                 "attackSound": "Bombing",
-                "uniques": ["Can move immadiately once bought","Replaces both Zero and Triplane"],
+                "uniques": ["Can move immediately once bought"],
             },
             {
                 "name": "Gangga Spearman",
@@ -75,7 +89,7 @@
                 "obsoleteTech": "Iron Working",
                 "hurryCostModifier": 20,
                 "attackSound": "metalhit",
-                "uniques": ["Can move immadiately once bought","Replaces "]
+                "uniques": ["Can move immediately once bought"]
             },
             {
                 "name": "Bruneian Silat Warrior",
@@ -90,6 +104,6 @@
                 "obsoleteTech": "Chivalry",
                 "hurryCostModifier": 20,
                 "attackSound": "metalhit",
-                "uniques": ["Can move after attacking","Cheaper to buy"],
-
-                
+                "uniques": ["Can move after attacking"],
+			},
+]
