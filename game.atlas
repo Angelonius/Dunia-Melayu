@@ -1,0 +1,174 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Gangga Negara
+  rotate: false
+  xy: 1376, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Johor Riau
+  rotate: false
+  xy: 1484, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kedah Tua
+  rotate: false
+  xy: 1592, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kesultanan Brunei
+  rotate: false
+  xy: 1700, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Malacca
+  rotate: false
+  xy: 1808, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Agarwood
+  rotate: false
+  xy: 628, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bird
+  rotate: false
+  xy: 836, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Black Pepper
+  rotate: false
+  xy: 944, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Camphor
+  rotate: false
+  xy: 1052, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Ceramic
+  rotate: false
+  xy: 1160, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Decorative Beads
+  rotate: false
+  xy: 1268, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rattan
+  rotate: false
+  xy: 1916, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rice
+  rotate: false
+  xy: 628, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rubber
+  rotate: false
+  xy: 736, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sago
+  rotate: false
+  xy: 736, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sea Cucumbers
+  rotate: false
+  xy: 844, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tin
+  rotate: false
+  xy: 844, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bruneian Silat Warrior
+  rotate: false
+  xy: 4, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gangga Spearman
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Jentayu
+  rotate: false
+  xy: 212, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Johor Silat Warrior
+  rotate: false
+  xy: 212, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Malaccan Armored Cavalry
+  rotate: false
+  xy: 420, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Malaccan Musketman
+  rotate: false
+  xy: 420, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Malaccan Silat Warrior
+  rotate: false
+  xy: 628, 220
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
