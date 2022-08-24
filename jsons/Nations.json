@@ -104,7 +104,7 @@
             "tradeRequest": "Sudi tuan hamba menerima tawaran hamba?",
 
             "outerColor": [255, 255, 0],
-            "innerColor": [255, 255, 0],
+            "innerColor": [1, 1, 1],
             "uniqueName": "Walls of Borneo",
             "uniques": ["[+1 Gold] from every [Pearls]", "[+4 Food] from every [Rice]","[+20]% culture when constructing [Culture] buildings","[+2 Faith] from each [Mosque]"],
             "cities": ["Brunei","Lawas","Limbang","Temburong","Sipitang","Tenom","Kuala Penyu","Papar","Penampang","Tambunan","Ranau",
