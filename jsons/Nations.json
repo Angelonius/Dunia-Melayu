@@ -51,7 +51,7 @@
             "outerColor": [255, 0, 0],
             "innerColor": [255, 255, 0],
             "uniqueName": "The hunter of Garudas",
-            "uniques": ["[+5 Faith] from every wonders","[+1 Gold] from each Trade Route","[+5 Science] from each [Pasture]","[+2 Gold] from each [Luxury Resource]","[1] Movement point cost to disembark <for [All] units>","[+1 Culture] from each [Pasture]"],
+            "uniques": ["[+5 Faith] from every Wonder","[+1 Gold] from each Trade Route","[+5 Science] from each [Pasture]","[+2 Gold] from each [Luxury Resource]","[1] Movement point cost to disembark <for [All] units>","[+1 Culture] from each [Pasture]"],
             "cities":["Alor setar","Langkawi","Kedah","Perak","Kelantan","Chermin","Phuket","Narathiwat",
         "Yala","Satun","Perlis","Surat thani","Krabi","Songkhla","Trang","Nakhon Si Thammarat","Ranong"]
           },
