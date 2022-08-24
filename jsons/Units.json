@@ -48,7 +48,7 @@
             {
                 "name": "Johor Silat Warrior",
                 "unitType": "Sword",
-                "uniqeTo": "Johor Riau",
+                "uniqueTo": "Johor Riau",
                 "replaces": "Swordsman",
                 "movement": 2,
                 "strength": 21,
@@ -64,7 +64,7 @@
             {
                 "name": "Jentayu",
                 "unitType": "Fighter",
-                "uniqeTo": "Kedah Tua",
+                "uniqueTo": "Kedah Tua",
                 "replaces": "Triplane",
                 "movement": 2,
                 "strength": 30,
@@ -93,7 +93,7 @@
             },
             {
                 "name": "Bruneian Silat Warrior",
-                "uniqeTo": "Brunei",
+                "uniqueTo": "Kesultanan Brunei",
                 "unitType": "Melee",
                 "replaces": "Pikeman",
                 "movement": 2,
