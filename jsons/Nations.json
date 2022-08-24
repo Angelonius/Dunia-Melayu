@@ -58,7 +58,7 @@
                 {
             "name": "Johor Riau",
             "leaderName": "Alauddin Riayat Shah II",
-            "adjective": ["Melayu Johor",]
+            "adjective": ["Melayu Johor"]
             "startBias": ["Jungle","Coast"],
             "preferredVictoryType": "Cultural",
             "favoredReligion": "Islam",
